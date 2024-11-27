@@ -1,0 +1,72 @@
+<svg width="400" xmlns="http://www.w3.org/2000/svg" height="300" viewBox="-556 -129 400 300" style="-webkit-print-color-adjust::exact" xmlns:xlink="http://www.w3.org/1999/xlink" fill="none" version="1.1">
+  <g rx="0" ry="0">
+    <g>
+      <g>
+        <rect rx="3" ry="3" x="-556" y="-129" transform="matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)" width="400" height="300" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.5;fill:#f2f2f2">
+        </rect>
+      </g>
+    </g>
+    <g style="fill:#000000" rx="0" ry="0">
+      <g>
+        <g>
+          <path d="M-392.216,-28.375L-384.142,-20.301L-402.352,-2.091L-384.142,16.119L-392.216,24.250L-418.500,-2.091L-392.216,-28.375ZM-358.889,-28.375L-332.605,-2.091L-358.889,24.250L-366.963,16.119L-348.753,-2.091L-366.963,-20.301L-358.889,-28.375ZM-298.247,-13.544L-298.247,55.172C-298.247,61.529,-303.343,66.625,-309.700,66.625L-401.321,66.625C-407.620,66.625,-412.774,61.529,-412.774,55.172L-412.774,32.267L-401.321,32.267L-401.321,55.172L-309.700,55.172L-309.700,-13.544L-326.707,-13.544L-326.707,-24.996L-309.700,-24.996C-303.343,-24.996,-298.247,-19.900,-298.247,-13.544ZZ" style="fill:#666666;fill-opacity:1">
+          </path>
+        </g>
+      </g>
+    </g>
+    <g rx="0" ry="0">
+      <g rx="0" ry="0">
+        <g>
+          <g>
+            <path d="M-503.500,100.995L-208.500,100.995" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.5;fill:none">
+            </path>
+          </g>
+          <g style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.5;fill:none">
+            <g>
+              <path d="M-503.500,100.995L-208.500,100.995" style="fill:none;fill-opacity:none;stroke-width:2.5;stroke:#bfbfbf;stroke-opacity:1;stroke-linecap:round">
+              </path>
+            </g>
+          </g>
+        </g>
+        <g>
+          <g>
+            <path d="M-503.500,120.995L-359.500,120.995" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.5;fill:none">
+            </path>
+          </g>
+          <g style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.5;fill:none">
+            <g>
+              <path d="M-503.500,120.995L-359.500,120.995" style="fill:none;fill-opacity:none;stroke-width:2.5;stroke:#bfbfbf;stroke-opacity:1;stroke-linecap:round">
+              </path>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g rx="0" ry="0">
+        <g>
+          <g>
+            <path d="M-503.500,-79.005L-208.500,-79.005" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.5;fill:none">
+            </path>
+          </g>
+          <g style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.5;fill:none">
+            <g>
+              <path d="M-503.500,-79.005L-208.500,-79.005" style="fill:none;fill-opacity:none;stroke-width:2.5;stroke:#bfbfbf;stroke-opacity:1;stroke-linecap:round">
+              </path>
+            </g>
+          </g>
+        </g>
+        <g>
+          <g>
+            <path d="M-503.500,-59.005L-276.500,-59.005" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.5;fill:none">
+            </path>
+          </g>
+          <g style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.5;fill:none">
+            <g>
+              <path d="M-503.500,-59.005L-276.500,-59.005" style="fill:none;fill-opacity:none;stroke-width:2.5;stroke:#bfbfbf;stroke-opacity:1;stroke-linecap:round">
+              </path>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
