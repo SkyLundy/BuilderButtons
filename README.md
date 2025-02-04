@@ -4,8 +4,6 @@ Representational images for web design elements. Useful for crafting web design 
 
 SVGs created and edited using [PenPot](https://penpot.app/), an open source application for designers and developers.
 
-Thanks to @BernhardBaumrock for his work on the excellent [RockPageBuilder](https://www.baumrock.com/en/processwire/modules/rockpagebuilder/) ProcessWire module and for providing the base images that these extend.
-
 ## Included Buttons
 
 - Accordion
@@ -14,15 +12,16 @@ Thanks to @BernhardBaumrock for his work on the excellent [RockPageBuilder](http
 - Audio
 - Bios
 - Calendar
+- Calendar
+- Calendar Events
 - Call To Action
 - Card Over Image
 - Code/Embed
-- Calendar
-- Calendar Events
 - Image
 - Image Carousel
 - Image Mosaic
 - Image Roll
+- Link Cards
 - List
 - Lists
 - Products
@@ -32,6 +31,6 @@ Thanks to @BernhardBaumrock for his work on the excellent [RockPageBuilder](http
 
 ## Icon/Image Sources
 
-Base format and some image components from @BernhardBaumrock
+Thanks to @BernhardBaumrock for his work on the excellent [RockPageBuilder](https://www.baumrock.com/en/processwire/modules/rockpagebuilder/) ProcessWire module and for providing the base images that these extend.
 
 Some images sourced from [Material Icons](https://fonts.google.com/icons)
