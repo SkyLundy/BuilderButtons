@@ -12,7 +12,7 @@ SVGs created and edited using [PenPot](https://penpot.app/), an open source appl
 - Audio
 - Bios
 - Calendar
-- Calendar
+- Callout Button
 - Calendar Events
 - Call To Action
 - Card Over Image
