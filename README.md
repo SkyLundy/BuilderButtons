@@ -12,9 +12,9 @@ SVGs created and edited using [PenPot](https://penpot.app/), an open source appl
 - Audio
 - Bios
 - Calendar
-- Callout Button
-- Calendar Events
+- Calendar Event
 - Call To Action
+- Callout Button
 - Card Over Image
 - Code/Embed
 - Image
@@ -24,6 +24,7 @@ SVGs created and edited using [PenPot](https://penpot.app/), an open source appl
 - Link Cards
 - List
 - Lists
+- Map
 - Products
 - Reviews
 - Video
