@@ -24,6 +24,7 @@ SVGs created and edited using [PenPot](https://penpot.app/), an open source appl
 - Image Carousel
 - Image Mosaic
 - Image Roll
+- Lightbox Gallery
 - Link Cards
 - List
 - Lists
