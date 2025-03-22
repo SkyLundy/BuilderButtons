@@ -15,6 +15,8 @@ SVGs created and edited using [PenPot](https://penpot.app/), an open source appl
 - Calendar Event
 - Call To Action
 - Callout Button
+- Callout Image
+- Callout Image (Reverse)
 - Card Over Image
 - Code/Embed
 - Image
