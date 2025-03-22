@@ -19,6 +19,7 @@ SVGs created and edited using [PenPot](https://penpot.app/), an open source appl
 - Callout Image (Reverse)
 - Card Over Image
 - Code/Embed
+- Form
 - Image
 - Image Carousel
 - Image Mosaic
